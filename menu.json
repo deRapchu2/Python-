@@ -1,0 +1,12 @@
+{
+    "Dishes": [
+        "CHicken",
+        "Burger",
+        "Pizza"
+    ],
+    "Prices": [
+        120,
+        750,
+        90
+    ]
+}
